@@ -4,6 +4,4 @@ Learn how to build and manage powerful applications using Microsoft Azure cloud 
 
 1. [Scrips](/scripts/)
 
-    [AI Search](/scripts/AI%20Search)
-
-        [Azure Search Documents](/scripts/AI%20Search/azure_search_documents.ipynb)
+    [Azure Search Documents](/scripts/AI%20Search/azure_search_documents.ipynb)
